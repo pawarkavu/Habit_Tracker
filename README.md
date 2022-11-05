@@ -16,16 +16,16 @@ npm install express ejs mongoose uuid dotenv
 npm install -D nodemon
 ```
 
-KAVITA_HABIT_TRACKER
-├── assets
-| --- ├── page.es
-| --- ├── quote.PNG
-├── views
-│ --- ├── details.ejs
-├── .env
-├── .gitignore
-├── index.js
-├── mongoose.js
-├── package-lock.json
-├── package.json
+KAVITA_HABIT_TRACKER <br>
+├── assets <br>
+| --- ├── page.es <br>
+| --- ├── quote.PNG <br>
+├── views <br>
+│ --- ├── details.ejs <br>
+├── .env <br>
+├── .gitignore <br>
+├── index.js <br>
+├── mongoose.js <br>
+├── package-lock.json <br>
+├── package.json <br>
 └── README.md
