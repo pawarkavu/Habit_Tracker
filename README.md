@@ -1,4 +1,4 @@
-# Node Habit Tracker
+# Habit Tracker
 
 This repo contains code for a web app called Habit Tracker. Which trackes users habits on daily basis.
 
@@ -18,8 +18,9 @@ npm install -D nodemon
 
 KAVITA_HABIT_TRACKER <br>
 ├── assets <br>
-| --- ├── page.es <br>
+| --- ├── page.js <br>
 | --- ├── quote.PNG <br>
+├── node_modules <br>
 ├── views <br>
 │ --- ├── details.ejs <br>
 ├── .env <br>
